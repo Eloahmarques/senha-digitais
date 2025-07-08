@@ -9,14 +9,14 @@
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
-
-*{
-    font-weight: 400;
+/**/
+*{ 
+    font-weight: 400;/**/
 }
 
 body{
-    color: var(--branco);
-    background-color: var(--cor-de-fundo);
+    color: var(--branco);/**/
+    background-color: var(--cor-de-fundo);/**/
     font-family: var(--roboto);
 }
 
@@ -30,7 +30,7 @@ body{
 }
 
 .conteudo-titulo{
-    text-align: center;
+    text-align: center;/*ALINHAMENTO DE TEXTO,CENTRALIZADO*/
     margin-top: 80px;
 }
 
